@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AndrewKlement
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning node.js
-- 📫 How to reach me ....
+- 📫 andrewklementw@gmail.com
