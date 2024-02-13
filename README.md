@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AndrewKlement
 - 👀 I’m interested in tech
-- 📫 [Contact me](andrewklementw@gmail.com)
+- 📫 Contact me andrewklementw@gmail.com
