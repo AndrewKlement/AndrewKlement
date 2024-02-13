@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Andrew Klement
-I'm Andrew Klement, currently pursuing my Bachelor's degree.
+I'm Andrew Klement, currently an undergraduate student.
 
 
 
